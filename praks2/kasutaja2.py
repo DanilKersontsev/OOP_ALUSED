@@ -19,4 +19,4 @@ class Kasutaja():
         print("E-mail " + self.gmail)
 
     def tervita_kasutaja(self):
-        print("Tere tulemast " + self.eesnimi + "!")
+        print("Tere tulemast " + self.eesnimi + "! ")
