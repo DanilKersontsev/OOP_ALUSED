@@ -20,4 +20,4 @@ for sodur in armee2:
     armee2_id.append(sodur.id)
 
 print("1. armees on sõdurid id-ga " + str(armee1_id))
-print("2. armees on sõdurid id-ga" + str(armee2_id))
+print("2. armees on sõdurid id-ga " + str(armee2_id))
