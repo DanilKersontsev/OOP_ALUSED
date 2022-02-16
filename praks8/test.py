@@ -8,3 +8,4 @@ kasutaja.tervita_kasutaja()
 
 admin2 = Privileegid("lubatud lisada kasutajad")
 admin2.naita_privileegid()
+

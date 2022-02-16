@@ -9,3 +9,4 @@ class Admin():
     privileegid = "lubatud lisada kasutajad, lubatud eemaldada kasutajad, lubatud blokeerida kasutajad"
     def naita_privileegid(self):
         print(self.privileegid)
+
