@@ -15,6 +15,3 @@ class Kasutaja():
         print("Tere tulemast " + self.eesnimi + "! ")
 
 
-
-
-
