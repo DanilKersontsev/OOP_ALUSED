@@ -10,3 +10,4 @@ class Admin():
     def naita_privileegid(self):
         print(self.privileegid)
 
+
